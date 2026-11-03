@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,CV Accuracy (5-fold)
+Random Forest,0.9955,0.9957,0.9955,0.9955,0.9945
+Decision Tree,0.9795,0.9806,0.9795,0.9794,0.9868
+Logistic Regression,0.9727,0.974,0.9727,0.9725,0.9714
